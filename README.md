@@ -1,9 +1,9 @@
-= SaasKit
+## SaasKit
 
 SaasKit is a Rails Engine that helps you to create Saas apps easily with Rails. It provides you basic and
 extendible Saas infrastructure so you can focus on your product instead of dealing with infrastructure.
  
-= Features and Modules
+## Features and Modules
 
 * Plans Module
   * Define plan abilities
@@ -21,7 +21,7 @@ extendible Saas infrastructure so you can focus on your product instead of deali
   * Custom gateway implementation support
   
   
-== Want more features? 
+## Want more features? 
 
 [Create an issue](https://github.com/codexity/saas_kit/issues/new)
 
